@@ -1,4 +1,4 @@
-# Magasin de voitures d'occasion (Used Cars Shop) - Test Technique pour la société Periscope - avril 2024
+# Magasin de voitures d'occasion (Used Cars Shop) - Test Technique - avril 2024
 
 Ce dépôt contient une application fullstack React/Next.js pour un magasin de vente de voitures d'occasion en ligne.
 
